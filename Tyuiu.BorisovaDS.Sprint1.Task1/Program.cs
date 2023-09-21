@@ -14,6 +14,7 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task1.V12
         {
             DataService ds = new DataService();
 
+
             Console.Title = "Спринт #1 | Выполнила: Борисова Д. С. | ИСТН-б-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
