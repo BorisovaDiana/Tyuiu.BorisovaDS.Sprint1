@@ -12,7 +12,10 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task2.V10.Lib
     {
         public double ConvertMetreToInchs(int x)
         {
-            return x * 39.37008;
+            
+            return x * 39.37;
         }
+
     }
+
 }

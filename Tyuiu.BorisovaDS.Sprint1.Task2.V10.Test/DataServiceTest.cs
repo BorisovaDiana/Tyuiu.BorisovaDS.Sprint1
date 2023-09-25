@@ -12,9 +12,9 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task2.V10.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            int x = 100;
+            double x = 100.0;
             var res = ds.ConvertMetreToInchs(x);
-            Assert.AreEqual(3937.008, res);
+            Assert.AreEqual(3937.008, res, 0.001);
         }
     }
 }

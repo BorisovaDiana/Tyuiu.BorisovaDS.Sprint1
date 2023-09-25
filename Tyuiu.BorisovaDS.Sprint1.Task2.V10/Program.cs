@@ -38,9 +38,10 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task2.V10
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-
+            
 
             Console.WriteLine("В дюймах X = " + ds.ConvertMetreToInchs(x));
+            
 
             Console.ReadLine();
         }
