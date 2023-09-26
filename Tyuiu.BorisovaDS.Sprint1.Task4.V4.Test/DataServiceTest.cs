@@ -17,6 +17,7 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task4.V4.Test
             var res = ds.Calculate(x, y);
             double result = Math.Abs(x + 2);
             Assert.AreEqual(0.75, res);
+
         }
     }
 }

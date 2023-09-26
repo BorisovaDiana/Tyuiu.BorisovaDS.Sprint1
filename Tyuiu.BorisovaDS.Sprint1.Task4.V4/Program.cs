@@ -40,6 +40,7 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task4.V4
             Console.WriteLine("Введите значение Y:");
             y = Convert.ToInt32(Console.ReadLine());
 
+
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");

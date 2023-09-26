@@ -15,4 +15,5 @@ namespace Tyuiu.BorisovaDS.Sprint1.Task4.V4.Lib
             return (1 + x * y) / (x + 2);
         }
     }
+
 }
